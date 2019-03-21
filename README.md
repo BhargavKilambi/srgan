@@ -7,12 +7,16 @@ Based on the implementation by [tensorlayer/srgan](https://github.com/tensorlaye
   -Pretrained VGG19 model was used.
    
  
-# Outputs:
+## OUTPUTS:
 * output  <br>
 <img src="outputs/output1.png" width="600" height="350"> <br>
 * output  (zoomed in)
 <img src="outputs/output2.png" width="600" height="350">
 
+
+### Project by:
+* [Bhargav Ram](https://github.com/BhargavKilambi) & [Anantha Rohan](https://github.com/AnanthaRohan)
 ### Reference
 * [1] [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802)
 * [2] [GAN — Super Resolution GAN (SRGAN)](https://medium.com/@jonathan_hui/gan-super-resolution-gan-srgan-b471da7270ec)
+
